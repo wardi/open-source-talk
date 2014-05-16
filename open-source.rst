@@ -37,7 +37,7 @@ Source code as liability
 Stay current
 ------------
 
-* Track lastest development of upstream project
+* Track latest development of upstream project
 * Know when something breaks immediately
 * Help shape the newest features
 
@@ -58,7 +58,7 @@ Elena Williams' talk:
 http://pyvideo.org/video/2646/hitchhikers-guide-to-participating-in-open-source
 
 * Autonomy: my way
-* Mastery: persue perfection
+* Mastery: pursue perfection
 * Purpose: scratch an itch
 
 
@@ -88,8 +88,10 @@ OSS projects
 ------------
 
 * how large?
-* new? well established? dead?
-* structured?
+* new?
+* well established?
+* dead?
+* how is it structured?
 * roles?
 
 
@@ -97,7 +99,7 @@ Accepting criticism in public
 -----------------------------
 
 * a learned skill
-* be overly humble in comminication
+* be overly humble in communication
 * keep ego in check
 * use a personal email address
 * accept mistakes, move on
@@ -183,7 +185,7 @@ Use OSS development tools
 -------------------------
 
 * version control system
-* issue tracking and workflow
+* issue tracking and work flow
 * continuous integration
 
 
@@ -212,3 +214,11 @@ Final notes
 * Adopt an OSS-friendly culture in your organization
 
 
+Thank you!
+----------
+
+A Practical Guide for Working with Open Source Software
+
+Ian Ward
+
+http://excess.org

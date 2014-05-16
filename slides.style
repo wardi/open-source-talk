@@ -13,7 +13,7 @@
 "pageTemplates" : {
     "cutePage": {
         "frames": [
-            ["10%", "20%", "60%", "60%"]
+            ["20%", "20%", "70%", "60%"]
         ],
         "background" : "background.pdf",
 	"showHeader" : false,
