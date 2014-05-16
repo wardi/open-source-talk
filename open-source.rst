@@ -170,6 +170,7 @@ Winning at OSS
 * up-front work
 * users to support
 * releases to manage
+* better code
 * opportunity for outside contributions
 * stay up to date with upstream
 
@@ -208,9 +209,9 @@ Look for OSS feature opportunities
 Final notes
 -----------
 
-* Goal: get your code upstream
+* Goals: less code, more features, costs controlled
 * Individual developers involved with your OSS community
-* Offer your fixes and features back as OSS
+* Develop your fixes and features as OSS
 * Adopt an OSS-friendly culture in your organization
 
 
