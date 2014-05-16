@@ -1,5 +1,5 @@
-Practical Guide to Working with Open Source Software
-----------------------------------------------------
+A Practical Guide for Working with Open Source Software
+-------------------------------------------------------
 
 Ian Ward
 
@@ -7,13 +7,13 @@ IASA OSS E-Summit, 2014-05-16
 
 http://excess.org
 
-* Open Source user, contributor and maintainer
+* Open Source user, contributor and maintainer for 10+ years
 
 
 Overview
 --------
 
-* OSS goals
+* Goals when working with OSS
 * Profile of OSS communities and developers
 * Contributing to OSS
 * Becoming an OSS-friendly organization
@@ -38,8 +38,8 @@ Stay current
 ------------
 
 * Track lastest development of upstream project
-* Update frequently
-* Latest features
+* Know when something breaks immediately
+* Help shape the newest features
 
 
 Goals
@@ -102,22 +102,22 @@ Accepting criticism in public
 * accept mistakes, move on
 
 
-Connect on IRC
---------------
-
-* RULE 1: ask your actual question
-* RULE 2: don't leave
-
-
 Benefits of IRC
 ---------------
 
-* interruption-free
-* international
 * speak with project developers and other users
 * find out what other people are having trouble with
 * learn the culture
+* interruption-free
+* international
 * answer questions and you're part of the community
+
+
+Using IRC
+---------
+
+* RULE 1: ask your actual question
+* RULE 2: don't leave
 
 
 Reporting issues
@@ -161,7 +161,7 @@ After your feature is accepted
 * encourage outside contributions
 
 
-Winning in OSS
+Winning at OSS
 --------------
 
 * up-front work
@@ -171,8 +171,8 @@ Winning in OSS
 * stay up to date with upstream
 
 
-Becoming an OSS company
------------------------
+Becoming an OSS-friendly organization
+-------------------------------------
 
 * do more than just follow the licenses
 * get permission to work in the open
@@ -209,3 +209,5 @@ Final notes
 * Individual developers involved with your OSS community
 * Offer your fixes and features back as OSS
 * Adopt an OSS-friendly culture in your organization
+
+
