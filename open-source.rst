@@ -7,7 +7,7 @@ IASA OSS E-Summit, 2014-05-16
 
 http://excess.org
 
-* Open Source user, contributor and maintainer for 10+ years
+Open Source user, contributor and maintainer for 10+ years
 
 
 Overview
@@ -53,7 +53,8 @@ Goals
 Why people contribute to OSS
 ----------------------------
 
-Elena Williams:
+Elena Williams' talk:
+
 http://pyvideo.org/video/2646/hitchhikers-guide-to-participating-in-open-source
 
 * Autonomy: my way
@@ -87,7 +88,7 @@ OSS projects
 ------------
 
 * how large?
-* new? established? dead?
+* new? well established? dead?
 * structured?
 * roles?
 
@@ -95,7 +96,7 @@ OSS projects
 Accepting criticism in public
 -----------------------------
 
-* a difficult learned skill
+* a learned skill
 * be overly humble in comminication
 * keep ego in check
 * use a personal email address
@@ -123,7 +124,7 @@ Using IRC
 Reporting issues
 ----------------
 
-* include your irc conversation
+* include your IRC conversation
 * provide code that fails
 * explain everything you tried
 * make it look nice
